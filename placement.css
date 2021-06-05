@@ -72,19 +72,20 @@ body {
 .college_image{
     height: 33em;
     width: 95em;
+    
+
 }
 
 .container {
     position: relative;
     text-align: center;
-    color: white;
     max-width: 1287px;
   }
 
   .centered {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 96%;
+    left: 14%;
     transform: translate(-50%, -50%);
   }
 
@@ -94,4 +95,43 @@ body {
     color: white;
     text-shadow: 1px 1px gray;
     
+}
+
+.no-gutter > [class*='col-'] {
+  padding-right:0;
+  padding-left:0;
+}
+
+.about_div{
+  background-image: linear-gradient(to right,#004675,#c2c8be,#065293);
+  height: 26em;
+  padding-top: 2em;
+  text-align: center;
+}
+
+.about_div_left{
+  width: 50%;
+  float: left;
+}
+
+.about_div_right{
+  width: 50%;
+  float: left;
+}
+
+.staff_image{
+  width: 44em;
+  height:21em;
+}
+
+.about_label{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  padding-bottom: 1em;
+  margin-top: 1em;
+}
+
+.vision_div{
+  background: #6ba5b4;
+  height: 20em;
 }
