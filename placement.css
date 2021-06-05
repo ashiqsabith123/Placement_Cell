@@ -134,4 +134,33 @@ body {
 .vision_div{
   background: #6ba5b4;
   height: 20em;
+  padding-top: 3em;
+  
 }
+
+.vision_div_left{
+  text-align: center;
+  width: 40%;
+  padding-top: 3em;
+  height: 13em;
+  border-right: 2px solid white;
+  float: left;
+}
+
+.vision_label{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 66px;
+  
+}
+
+.vision_div_right{
+  text-align: center;
+}
+
+.vision_para{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 3em;
+}
+
