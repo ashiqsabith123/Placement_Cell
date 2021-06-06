@@ -211,3 +211,10 @@ body {
 .pabout_para{
   color: white;
 }
+
+.company_label{
+  font-family: 'Exo 2', sans-serif;
+  font-size: 47px;
+  color: white;
+
+}
