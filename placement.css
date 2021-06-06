@@ -1,5 +1,5 @@
 .head_div{
-    background-image: linear-gradient(to right,#004675,#746f6f,#065293);
+    background-image: linear-gradient(to right,#556378,#41565b);
 }
 
 .image-fluid1{
@@ -18,6 +18,7 @@
    margin-top: 22px;
    color: white;
    text-shadow: 1px 1px gray;
+   font-weight: 700;
    
 }
 
@@ -94,6 +95,7 @@ body {
     font-size: 46px;
     color: white;
     text-shadow: 1px 1px gray;
+    font-weight: 700;
     
 }
 
@@ -187,5 +189,25 @@ body {
   font-family: 'Jaldi', sans-serif;
   font-weight: bold;
   font-size: 30px;
+  color: white;
+}
+
+.main_label1{
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
+  letter-spacing: .25em;
+  font-size: 46px;
+  font-weight: 300 bold;
+}
+
+.left_portion{
+  text-align: center;
+  }
+
+.right_portion{
+  text-align: center;
+}
+
+.pabout_para{
   color: white;
 }
