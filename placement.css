@@ -179,3 +179,13 @@ body {
   
 }
 
+.card-img{
+  height: 17em;
+}
+
+.course_label{
+  font-family: 'Jaldi', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
