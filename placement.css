@@ -1,5 +1,5 @@
 .head_div{
-    background-image: linear-gradient(#004675,#746f6f,#065293);
+    background-image: linear-gradient(to right,#004675,#746f6f,#065293);
 }
 
 .image-fluid1{
@@ -133,7 +133,7 @@ body {
 }
 
 .vision_div{
-  background: #6ba5b4;
+  
   text-align: center;
   
 }
@@ -151,7 +151,7 @@ body {
 
 .vision_para{
   font-family: 'Source Code Pro', monospace;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 400;
   
 }
@@ -159,5 +159,23 @@ body {
 .mission_div{
   
   text-align: center;
+}
+
+.card{
+  height: 23em;
+  margin-left: 7px;
+  margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 3em; /* Added */
+}
+
+.card-img-top{
+  height: 11em;
+}
+
+.mission_label{
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-weight: bold;
+  
 }
 
