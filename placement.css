@@ -170,3 +170,20 @@
   font-size: 20px;
   color: white;
 }
+
+.placed{
+  padding-bottom: 3em;
+}
+
+.footer_label{
+  color: white;
+}
+.footer_left{
+  padding-top: 3em;
+}
+
+.footer_right{
+  padding-top: 3em;
+  text-align: center;
+
+}
